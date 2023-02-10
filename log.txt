@@ -1,0 +1,429 @@
+OSFree: 6956 free bytes OSUsed 1236 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 0
+TASK3 - Exec time: 1 Total exec time: 1
+OSFree: 6944 free bytes OSUsed 1248 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 0
+TASK3 - Exec time: 1 Total exec time: 2
+OSFree: 6752 free bytes OSUsed 1440 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 0
+TASK3 - Exec time: 1 Total exec time: 3
+OSFree: 6752 free bytes OSUsed 1440 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 0
+TASK3 - Exec time: 1 Total exec time: 4
+OSFree: 6752 free bytes OSUsed 1440 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 0
+TASK3 - Exec time: 1 Total exec time: 5
+OSFree: 6748 free bytes OSUsed 1444 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 0
+TASK3 - Exec time: 1 Total exec time: 6
+Our number 561
+Nr of ones 4
+OSFree: 6748 free bytes OSUsed 1444 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 60320
+TASK3 - Exec time: 1 Total exec time: 7
+OSFree: 6748 free bytes OSUsed 1444 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 60320
+TASK3 - Exec time: 1 Total exec time: 8
+We pressed button 4My time was: 87OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 123856
+TASK3 - Exec time: 1 Total exec time: 9
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 123856
+TASK3 - Exec time: 1 Total exec time: 10
+Our number 561
+Nr of ones 4
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 63160 Total exec time: 187016
+TASK3 - Exec time: 1 Total exec time: 11
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 187016
+TASK3 - Exec time: 1 Total exec time: 12
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 187016
+TASK3 - Exec time: 1 Total exec time: 13
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 187016
+TASK3 - Exec time: 1 Total exec time: 14
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 248552
+TASK3 - Exec time: 1 Total exec time: 15
+We pressed button 4My time was: 854OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 248552
+TASK3 - Exec time: 1 Total exec time: 16
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 248552
+TASK3 - Exec time: 1 Total exec time: 17
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 248552
+TASK3 - Exec time: 1 Total exec time: 18
+Our number 561
+Nr of ones 4
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 61269 Total exec time: 309821
+TASK3 - Exec time: 1 Total exec time: 19
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 309821
+TASK3 - Exec time: 1 Total exec time: 20
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 309821
+TASK3 - Exec time: 1 Total exec time: 21
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 372357
+TASK3 - Exec time: 1 Total exec time: 22
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 372357
+TASK3 - Exec time: 1 Total exec time: 23
+We pressed button 4My time was: 1197OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 372357
+TASK3 - Exec time: 1 Total exec time: 24
+Our number 561
+Nr of ones 4
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 62405 Total exec time: 434762
+TASK3 - Exec time: 1 Total exec time: 25
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 434762
+TASK3 - Exec time: 1 Total exec time: 26
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 27
+We pressed button 4My time was: 914OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 28
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 29
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 30
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 31
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 32
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 33
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 34
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 35
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 36
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 37
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 38
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 39
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 40
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 41
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 42
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 43
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 44
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 45
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 46
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 47
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 48
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 49
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 50
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 51
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 52
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 53
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 54
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 55
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 56
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 57
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 58
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 59
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 60
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 61
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 62
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 63
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 64
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 65
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 66
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 67
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 68
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 69
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 70
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 71
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 72
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 73
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 74
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 75
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 76
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 77
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 78
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 79
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 80
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 81
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 82
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 83
+OSFree: 5300 free bytes OSUsed 2892 used bytes 
+TASK0 - Exec time: 0 Total exec time: 3
+TASK1 - Exec time: 0 Total exec time: 0
+TASK2 - Exec time: 0 Total exec time: 498298
+TASK3 - Exec time: 1 Total exec time: 84
+

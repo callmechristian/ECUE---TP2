@@ -32,6 +32,14 @@
 #include "includes.h"
 
 /* helper funcs from lab 1 */
+#include <math.h>
+#include <unistd.h>
+#include <time.h>
+#include <stdlib.h>
+#include "altera_avalon_pio_regs.h"
+#include "system.h"
+#include "sys/alt_timestamp.h"
+static int LUT[10] = {0x40, 0x79, 0x24, 0x30, 0x19, 0x12, 0x02, 0x78, 0x00, 0x10};
 // display number on the seven segment display
 void display_seven(int number) {
 	int i = 0, numlen = (int)log10(number)+1;
@@ -69,10 +77,10 @@ void task1(void* pdata)
 
   while (1)
   { 
-    printf("Sending from task1: %d\n", (int)&counter);
+    printf("Sending from task1: %d\n", (int)counter);
     OSMboxPost(mailbox, (void*)&counter);
     counter++;
-    OSTimeDlyHMSM(0, 0, 5, 0);
+    OSTimeDlyHMSM(0, 0, 1, 0);
   }
 }
 /* Prints "Hello World" and sleeps for three seconds */
@@ -83,10 +91,10 @@ void task2(void* pdata)
 
   while (1)
   { 
-    receivedData = (INT32U*) OSMBoxPend(mailbox, 0 , &error);
+    receivedData = (INT32U*) OSMboxPend(mailbox, 0 , &error);
     printf("Received at task2 from task1: %d\n", (int)*receivedData);
     display_seven((int)*receivedData);
-    OSTimeDlyHMSM(0, 0, 3, 0);
+    OSTimeDlyHMSM(0, 0, 2, 0);
   }
 }
 /* The main function creates two task and starts multi-tasking */

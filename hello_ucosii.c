@@ -62,6 +62,7 @@ void task2(void* pdata)
 /* The main function creates two task and starts multi-tasking */
 int main(void)
 {
+	printf("Hello from ucos!");
   
   OSTaskCreateExt(task1,
                   NULL,

@@ -30,6 +30,14 @@
 #include "includes.h"
 
 /* helper funcs from lab 1 */
+#include <math.h>
+#include <unistd.h>
+#include <time.h>
+#include <stdlib.h>
+#include "altera_avalon_pio_regs.h"
+#include "system.h"
+#include "sys/alt_timestamp.h"
+static int LUT[10] = {0x40, 0x79, 0x24, 0x30, 0x19, 0x12, 0x02, 0x78, 0x00, 0x10};
 // display number on the seven segment display
 void display_seven(int number) {
 	int i = 0, numlen = (int)log10(number)+1;
@@ -59,6 +67,11 @@ OS_STK    task2_stk[TASK_STACKSIZE];
 
 OS_EVENT* q;
 
+/* different delays */
+int D2 = 5;
+float k[6] = {10, 5, 2, 1, 0.5, 0.01};
+float D1 = 1 * 10;
+
 /* Task that sends the value of a counter */
 void task1(void* pdata)
 {
@@ -67,10 +80,11 @@ void task1(void* pdata)
 
   while (1)
   { 
-    printf("Sending from task1: %ld\n", counter);
+	  printf("k is: %f\n", k[5]);
+    printf("Sending from task1: %ld\n", (long int)counter);
     OSQPost(q, (void*) counter);
     counter++;
-    OSTimeDlyHMSM(0, 0, 1, 0);
+    OSTimeDlyHMSM(0, 0, D1, 0);
   }
 }
 
@@ -85,7 +99,7 @@ void task2(void* pdata)
     receivedData = (INT32U) OSQPend(q, 0, &error);
     printf("Received at task2 from task1: %ld\n", receivedData);
     display_seven((int)receivedData);
-    OSTimeDlyHMSM(0, 0, 2, 0);
+    OSTimeDlyHMSM(0, 0, D2, 0);
   }
 }
 
