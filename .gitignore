@@ -1,0 +1,5 @@
+*.elf
+*.pdf
+*.map
+*.objdump
+/obj
