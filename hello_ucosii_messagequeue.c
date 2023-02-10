@@ -29,6 +29,24 @@
 #include <stdio.h>
 #include "includes.h"
 
+/* helper funcs from lab 1 */
+// display number on the seven segment display
+void display_seven(int number) {
+	int i = 0, numlen = (int)log10(number)+1;
+	if(number == 0) {
+		numlen = 1;
+	}
+	for (i = 0; i < 6; i++){
+		if(numlen <= i) {
+			IOWR_ALTERA_AVALON_PIO_DATA(HEX0_BASE-0x20*i, 0xff);
+		} else {
+//			printf("%d\n", number);
+			IOWR_ALTERA_AVALON_PIO_DATA(HEX0_BASE-0x20*i, LUT[number%10]);
+		}
+		number = number/10;
+	}
+}
+
 /* Definition of Task Stacks */
 #define   TASK_STACKSIZE       2048
 OS_STK    task1_stk[TASK_STACKSIZE];
@@ -66,7 +84,7 @@ void task2(void* pdata)
   {
     receivedData = (INT32U) OSQPend(q, 0, &error);
     printf("Received at task2 from task1: %ld\n", receivedData);
-
+    display_seven((int)receivedData);
     OSTimeDlyHMSM(0, 0, 2, 0);
   }
 }
