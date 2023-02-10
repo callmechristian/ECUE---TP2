@@ -69,7 +69,7 @@ void task1(void* pdata)
 
   while (1)
   { 
-    printf("Sending from task1: %d\n", &counter);
+    printf("Sending from task1: %d\n", (int)&counter);
     OSMboxPost(mailbox, (void*)&counter);
     counter++;
     OSTimeDlyHMSM(0, 0, 5, 0);
@@ -84,7 +84,7 @@ void task2(void* pdata)
   while (1)
   { 
     receivedData = (INT32U*) OSMBoxPend(mailbox, 0 , &error);
-    printf("Received at task2 from task1: %d\n", *receivedData);
+    printf("Received at task2 from task1: %d\n", (int)*receivedData);
     display_seven((int)*receivedData);
     OSTimeDlyHMSM(0, 0, 3, 0);
   }

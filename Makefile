@@ -142,7 +142,10 @@ ACDS_VERSION := 16.1
 ELF := LAB2.elf
 
 # Paths to C, C++, and assembly source files.
-C_SRCS := hello_ucosii.c
+C_SRCS += hello_ucosii.c
+C_SRCS += hello_ucosii_mailbox.c
+C_SRCS += hello_ucosii_messagequeue.c
+C_SRCS += ucosii_reflext_test.c
 CXX_SRCS :=
 ASM_SRCS :=
 
