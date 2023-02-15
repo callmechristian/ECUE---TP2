@@ -413,6 +413,7 @@ void task4(void* pdata)
 
 	 for(int i = 0; i < 4; i++) {
 		 printf("TASK%d - ", i);
+		 printf("Execs: %d:", TaskUserData1[i].TaskCtr);
 		 printf("Exec time: %d ", TaskUserData1[i].TaskExecTime);
 		  printf("Total exec time: %d\n", TaskUserData1[i].TaskTotExecTime);
 	 }
