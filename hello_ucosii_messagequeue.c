@@ -68,7 +68,7 @@ OS_STK    task2_stk[TASK_STACKSIZE];
 OS_EVENT* q;
 
 /* different delays */
-int D2 = 5;
+int D2 = 1;
 float k[6] = {10, 5, 2, 1, 0.5, 0.01};
 float D1 = 1 * 10;
 

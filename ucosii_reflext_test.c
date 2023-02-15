@@ -393,11 +393,24 @@ void task4(void* pdata)
 	  OS_STK_DATA task_data;
 
 	 if(OSTaskStkChk(TASK1_PRIORITY, &task_data) == OS_NO_ERR) {
-		 printf("OSFree: %d free bytes ", (int)task_data.OSFree);
+		 printf("T1 OSFree: %d free bytes ", (int)task_data.OSFree);
 		 printf("OSUsed %d used bytes \n", (int)task_data.OSUsed);
 	 } else {
-		 printf("Taks stack ceck failed.\n");
+		 printf("Taks stack check failed.\n");
 	 }
+	 if(OSTaskStkChk(TASK2_PRIORITY, &task_data) == OS_NO_ERR) {
+		 printf("T2 OSFree: %d free bytes ", (int)task_data.OSFree);
+		 printf("OSUsed %d used bytes \n", (int)task_data.OSUsed);
+	 } else {
+		 printf("Taks stack check failed.\n");
+	 }
+	 if(OSTaskStkChk(TASK3_PRIORITY, &task_data) == OS_NO_ERR) {
+		 printf("T3 OSFree: %d free bytes ", (int)task_data.OSFree);
+		 printf("OSUsed %d used bytes \n", (int)task_data.OSUsed);
+	 } else {
+		 printf("T4 Taks stack check failed.\n");
+	 }
+
 	 for(int i = 0; i < 4; i++) {
 		 printf("TASK%d - ", i);
 		 printf("Exec time: %d ", TaskUserData1[i].TaskExecTime);
